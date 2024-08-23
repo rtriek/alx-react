@@ -9,7 +9,7 @@ Read or watch:
 - [Normalizr](https://github.com/paularmstrong/normalizr)
 - [Normalizing State Shape](https://redux.js.org/usage/structuring-reducers/normalizing-state-shape)
 
-##Requirements
+## Requirements
 - Allowed editors: `vi`, `vim`, `emacs`, `Visual Studio Code`
 - All your files should end with a new line
 - All your files will be interpreted/compiled on Ubuntu 18.04 LTS using `node 12.x.x` and `npm 6.x.x`
