@@ -2,12 +2,11 @@
 ## Description:
 - Webpack
 - TypeScript
-- React I
+- React
 - Intro
 - Props
-- React II
 - State
-- Inmmutable
+- Immutable
 - Inline-styling
 - React Redux
 - React Portfolio Project
